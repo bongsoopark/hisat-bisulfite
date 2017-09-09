@@ -78,7 +78,7 @@ wget http://smithlab.usc.edu/methbase/data/ENCODE-Project-Human-2011/Human_Pancr
 wget http://smithlab.usc.edu/methbase/data/ENCODE-Project-Human-2011/Human_HTR8svn1/tracks_hg38/Human_HTR8svn1.meth.bw
 wget http://smithlab.usc.edu/methbase/data/ENCODE-Project-Human-2011/Human_SMMtube1/tracks_hg38/Human_SMMtube1.meth.bw
 wget http://smithlab.usc.edu/methbase/data/ENCODE-Project-Human-2011/Human_AoSMC1/tracks_hg38/Human_AoSMC1.meth.bw
-wget http://smithlab.usc.edu/methbase/data/ENCODE-Project-Human-2011/Human_AoSMC1/tracks_hg38/Human_AoSMC1.meth.bw
+wget http://smithlab.usc.edu/methbase/data/ENCODE-Project-Human-2011/Human_CPEpiC1/tracks_hg38/Human_CPEpiC1.meth.bw
 wget http://smithlab.usc.edu/methbase/data/ENCODE-Project-Human-2011/Human_NHDFneo1/tracks_hg38/Human_NHDFneo1.meth.bw
 wget http://smithlab.usc.edu/methbase/data/ENCODE-Project-Human-2011/Human_HepG2-1/tracks_hg38/Human_HepG2-1.meth.bw
 wget http://smithlab.usc.edu/methbase/data/ENCODE-Project-Human-2011/Human_FL-Fibroblast1/tracks_hg38/Human_FL-Fibroblast1.meth.bw
